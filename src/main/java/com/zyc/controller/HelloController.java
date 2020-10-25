@@ -13,6 +13,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "hello world 23456 我们约会吧";
+        return "hello world 23456";
     }
 }
